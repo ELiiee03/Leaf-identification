@@ -1,0 +1,10 @@
+{
+  "appId": "com.leafid.leafidentification",
+  "appName": "Leaf-identification",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
