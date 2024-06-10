@@ -1,5 +1,7 @@
 import { SplashScreen } from '@capacitor/splash-screen';
 import { Camera } from '@capacitor/camera';
+// Import Bootstrap CSS and custom styles
+
 
 window.customElements.define(
   'capacitor-welcome',
